@@ -1,0 +1,1 @@
+# teradata-v7k
